@@ -1,0 +1,61 @@
+Business Entities: (in Online Project Management System)
+
+1. Project Manager
+2. Assistant Manager
+3. Team Leader
+4. Team Member
+5. Delivery Manager
+6. Delivery Team
+7. Executive Team
+8. Board of Directors
+
+Business Operations:
+
+1. Project Manager:
+	1. Submit Tenders
+	2. Request/ Approve funds, budget modifications
+	3. Assign Project
+	4. Deligate Project
+	5. Add Team to existing project
+	6. Create new team
+	7. Modify team for existing project
+	8. Send Deadline reminders.
+
+2. Assistant Manager:
+	1. Add team member
+	2. Remove team member
+	3. Create new task
+	4. Assign task (to team)
+	5. Assign task (to member)
+	6. Update task status : Yet to Start / Started / Runnng / Completed
+	7. Request Resource
+	8. Send tasks deadline reminders
+
+3. Team Leader:
+	1. Generate task report.
+	2. Generate project report.
+	3. Identify Star Performers
+	4. Schedule a meeting
+	5. Coordinate Teams
+
+4. Team Member:
+	1. See assigned tasks.
+	2. See assigned projects.
+	3. See weeks' schedule
+	4. Start a task
+	5. Update task status
+	6. Complete a task
+	7. Generate production reports for key metrics.
+	8. Request Adhoc Tasks
+
+5. Delivery Manager:
+	1. Share Deliverable goals
+	2. Update Project details and specifications
+	3. Request Deliverables Status
+
+6: Board of Directors:
+	1. See Key Performance Indicators
+	2. Show and Analyze Organization Dashboard
+	3. Shareholder Relationship Forum
+	4. Schedule a key note
+	6. Manage Executive meetings.

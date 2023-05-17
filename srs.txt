@@ -1,0 +1,29 @@
+SRS for Online Project Management System:
+
+Functional Requirement:
+
+1.
+	System will allow users to register for the Online Project Management Application if not already registered. 
+	System will not allow a visitor to see any details regarding any project for security reasons.
+2.
+	System will allow user to sign in as per role-based manner and make changes to the existing projects or data by authorized personnel only.
+3. Users:
+	Users of the system and their role vary as per the department and designation.
+	e.g. Project Manager, Employees, Delivery Manager, Stakeholders, etc.
+4. Project Manager:
+	System will allow project managers (PM) to manage project i.e. add new project, update project status, execute new project.
+	as well as system will allow PM to manage teams working on the project i.e.
+	Add new team to the existing project, Add member to the team, remove team member, Assign task to a team, Brodcast Memos to the team.
+5. Employee:
+	System will allow Employee (emp) to visit their dashboard and see various project level details like see assigned projects.
+	See tasks assigned in the project.
+	Coordinate with team member on project basis, Coordinate with team member on task basis.
+	System will alloemp to Start assigned tasks, Update status of the assigned tasks, Publish timely project reports etc.
+6. Stakeholders:
+	System will allow stakeholders to see the status of all the running and upcoming projects in a dashboard.
+	System will analytical tools for each project to produce
+	project data in various formats like graphs, bar charts, pie charts, trends.
+	System will also show key performance indicatiors for all the teams.
+	System will also allow stakeholders to manage project managers and budget allocation for each project.
+	System will allow to notify executive changes and structural changes to the project managers and all organisation departments.
+ 
